@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnkeJanssens/ElectronicPortfolio/static/css/main.3ec7cbe8.css",
+    "main.js": "/AnkeJanssens/ElectronicPortfolio/static/js/main.58687742.js",
+    "index.html": "/AnkeJanssens/ElectronicPortfolio/index.html",
+    "main.3ec7cbe8.css.map": "/AnkeJanssens/ElectronicPortfolio/static/css/main.3ec7cbe8.css.map",
+    "main.58687742.js.map": "/AnkeJanssens/ElectronicPortfolio/static/js/main.58687742.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec7cbe8.css",
+    "static/js/main.58687742.js"
+  ]
+}
